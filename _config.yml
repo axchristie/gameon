@@ -1,0 +1,16 @@
+name: Prototyping Videogames
+highlighter: pygments
+permalink: none
+baseurl: /gameon
+subtitle: Alex Christie
+
+page1: schedule
+page2: assignments
+page3: lectures
+page4: resources
+
+delay2: "-webkit-animation-delay: .2s; -moz-animation-delay: .2s; -ms-animation-delay: 
+.2s; animation-delay: .2s;"
+delay4: "-webkit-animation-delay: .4s; -moz-animation-delay: .4s; -ms-animation-delay: .4s; animation-delay: .4s;"
+delay6: "-webkit-animation-delay: .6s; -moz-animation-delay: .6s; -ms-animation-delay: .6s; animation-delay: .6s;"
+delay8: "-webkit-animation-delay: .8s; -moz-animation-delay: .8s; -ms-animation-delay: .8s; animation-delay: .8s;"
