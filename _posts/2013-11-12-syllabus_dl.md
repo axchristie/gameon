@@ -1,8 +1,8 @@
 ---
 layout: home_post
-title: View Syllabus
+title: Download Syllabus
 categories: syllabus_dl
-picture: nes
+picture: turing
 download: gameon_syllabus.pdf
 ---
 
